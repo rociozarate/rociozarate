@@ -36,9 +36,9 @@ Git · Jira · Claude
 
 - QA Functional & Automation Tester
 (Jul. 2023 – Actualidad)
-Desarrollo y mantenimiento de pruebas automatizadas
+Desarrollo y mantenimiento de pruebas automatizadas móvil
 Testing funcional en features complejas
-Validación de APIs y flujos end-to-end
+Validación de flujos End-to-End
 
 - QA Manual Tester
 (Ago. 2022 – Jun. 2023)
